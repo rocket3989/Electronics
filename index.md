@@ -1,48 +1,28 @@
 # LED: Light Emitting Diode
 
-
-### Job of LED
-* What does an LED do? Why is it good at this job? 
-
-
-	
-### Polarity Matters
-* What does **polarity** mean? 
-
-* Why is important when dealing with LED’s?  
-
-* How can you tell the polarity on a naked LED?
-### Resistors Always Needed
-
-* Why are resistors needed whenever you use an LED? 
-
-### Symbol for an LED
-* What is the symbol for an LED
+## Knowledge
+Job of LED|Polarity Matters|Resistors Always Needed| Symbol for an LED
+---|---|---|---
+What does an LED do?   Why is it good at this job?|What does **polarity** mean? Why is important when dealing with LED’s? How can you tell the polarity on a naked LED?|Why are resistors needed whenever you use an LED?|What is the symbol for an LED|
+ <br><br><br><br><br><br>| | | | |
 
 
 
  ###### Bonus Material:   [The LED was invented at the University of Illinois](https://www.youtube.com/watch?v=KKkzBVNozjI)
-	
+ <br>
 	
 ## Circuits
-
-#### LED with a Switch 
-Make a circuit that electricity passes through a LED.
-
-#### LED’s in Series
-How many LED’s can you light when they are all in series?   Why is this the case?
-
-#### LED’s in Parallel
-How many LED’s can you light when they are all in parallel? Why is this?
-#### 1 Bright   ::    1 Dim
-Use a resistor to make one light noticeably dimmer than another light. 
-#### Push Button Off
-Use a push button switch and make a circuit that is always on, unless you push the button to turn it off.  
-*No short circuits!*
+Circuit |Explaination
+--------|---
+LED with a Switch| Make a circuit that electricity passes through a LED.
+LED’s in Series|How many LED’s can you light when they are all in series?   Why is this the case?
+LED’s in Parallel|How many LED’s can you light when they are all in parallel? Why is this?
+1 Bright       1 Dim|Use a resistor to make one light noticeably dimmer than another light. 
+Push Button Off|Use a push button switch and make a circuit that is always on, unless you push the button to turn it off.   *No short circuits!*
 
 
 
-
+<br>
 
 ## LED Background 
 [Information Adapted from Sparkfun Electronics](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds)
