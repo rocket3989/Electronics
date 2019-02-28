@@ -1,29 +1,3 @@
-<style>
-table {
-  padding: 0; }
-  table tr {
-    border-top: 1px solid #cccccc;
-    background-color: white;
-    margin: 0;
-    padding: 0; }
-    table tr:nth-child(2n) {
-      background-color: #f8f8f8; }
-    table tr th {
-      font-weight: bold;
-      border: 1px solid #cccccc;
-      text-align: left;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr td {
-      border: 1px solid #cccccc;
-      text-align: left;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr th :first-child, table tr td :first-child {
-      margin-top: 0; }
-    table tr th :last-child, table tr td :last-child {
-      margin-bottom: 0; }
-</style>
 
 # LED: Light Emitting Diode
 
@@ -54,7 +28,7 @@ Push Button Off|Use a push button switch and make a circuit that is always on, u
 ## LED Background 
 [Information Adapted from Sparkfun Electronics](https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds)
 
-LEDs are all around us- In our phones, our cars and even our homes. Any time something electronic lights up, there’s a good chance that an LED is behind it. 
+LEDs are all around us- In our phones, our cars and even our homes. Any time something electronic lights up, there’s a good chance that an LED is behind it. \$$ 5 + 5 $$
 
 They come in a huge variety of sizes, shapes, and colors, but no matter what they look like they have one thing in common: they’re the bacon of electronics. They’re widely purported to make any project better and they’re often added to unlikely things (to everyone’s delight).
 
