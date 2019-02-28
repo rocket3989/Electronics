@@ -1,6 +1,33 @@
+<style>
+table {
+  padding: 0; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+</style>
+
 # LED: Light Emitting Diode
 
-## Knowledge
+## Knowledge Base
 Job of LED|Polarity Matters|Resistors Always Needed| Symbol for an LED
 ---|---|---|---
 What does an LED do?   Why is it good at this job?|What does **polarity** mean? Why is important when dealing with LED’s? How can you tell the polarity on a naked LED?|Why are resistors needed whenever you use an LED?|What is the symbol for an LED|
@@ -31,14 +58,13 @@ LEDs are all around us- In our phones, our cars and even our homes. Any time som
 
 They come in a huge variety of sizes, shapes, and colors, but no matter what they look like they have one thing in common: they’re the bacon of electronics. They’re widely purported to make any project better and they’re often added to unlikely things (to everyone’s delight).
 
-<span style="display:block;text-align:center">![led Diode](https://cdn.sparkfun.com/assets/b/7/6/0/4/51f1ba6bce395f3c20000003.jpg)</span>
-
 <p align="center"> <img src="https://cdn.sparkfun.com/assets/b/7/6/0/4/51f1ba6bce395f3c20000003.jpg"> </p>
 
 Unlike bacon, however, they’re no good once you’ve cooked them. This guide will help you avoid any accidental LED barbecues! First things first, though. What exactly is this LED thing everyone’s talking about?
-LEDs (that’s “ell-ee-dees”) are a particular type of [diode](https://learn.sparkfun.com/tutorials/diodes/introduction) that convert electrical energy into light. In fact, LED stands for “Light Emitting Diode.” (It does what it says on the tin!) And this is reflected in the similarity between the diode and LED schematic symbols:
+LEDs (that’s “ell-ee-dees”) are a particular type of [diode](https://learn.sparkfun.com/tutorials/diodes/introduction) that converts electrical energy into light. In fact, LED stands for “Light Emitting Diode.” (It does what it says on the tin!) And this is reflected in the similarity between the diode and LED schematic symbols:
 
-<span style="display:block;text-align:center">![led Diode](/img/ledDiode.png)</span>
+
+<p align="center"> <img src="img\ledDiode.png"> </p>
 
 In short, LEDs are like tiny lightbulbs. However, LEDs require a lot less power to light up by comparison. They’re also more energy efficient, so they don’t tend to get hot like conventional lightbulbs do (unless you’re really pumping power into them). This makes them ideal for mobile devices and other low-power applications. Don’t count them out of the high-power game, though. High-intensity LEDs have found their way into accent lighting, spotlights and even automotive headlights!
 
