@@ -4,7 +4,7 @@
 Job of LED|Polarity Matters|Resistors Always Needed| Symbol for an LED
 ---|---|---|---
 What does an LED do?   Why is it good at this job?|What does **polarity** mean? Why is important when dealing with LED’s? How can you tell the polarity on a naked LED?|Why are resistors needed whenever you use an LED?|What is the symbol for an LED|
- <br><br><br><br><br><br>| | | | |
+ 
 
 
 
@@ -33,6 +33,7 @@ They come in a huge variety of sizes, shapes, and colors, but no matter what the
 
 <span style="display:block;text-align:center">![led Diode](https://cdn.sparkfun.com/assets/b/7/6/0/4/51f1ba6bce395f3c20000003.jpg)</span>
 
+<p align="center"> <img src="https://cdn.sparkfun.com/assets/b/7/6/0/4/51f1ba6bce395f3c20000003.jpg"> </p>
 
 Unlike bacon, however, they’re no good once you’ve cooked them. This guide will help you avoid any accidental LED barbecues! First things first, though. What exactly is this LED thing everyone’s talking about?
 LEDs (that’s “ell-ee-dees”) are a particular type of [diode](https://learn.sparkfun.com/tutorials/diodes/introduction) that convert electrical energy into light. In fact, LED stands for “Light Emitting Diode.” (It does what it says on the tin!) And this is reflected in the similarity between the diode and LED schematic symbols:
